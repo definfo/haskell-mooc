@@ -38,7 +38,7 @@ library
                , Examples.QuickCheck
                , Examples.ReadTypes
                , Examples.Validation
-  other-modules: Set1
+               , Set1
                , Set2a
                , Set2b
                , Set3a
